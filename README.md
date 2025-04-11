@@ -1,8 +1,7 @@
-# do.good everyday
+# S-credits
 
-do.good everyday is a simple, social app that provides users with a list of small, personalized good deeds to do, allows them to create and share new ones, and allows them to share, comment on and encourage each other's completed deeds.
+S-credits is a simple, social app that provides users with a list of socail activities , and allows them to share their activites to the society , comment on and encourage each other's completed deeds.
 
-https://do-good-everyday.herokuapp.com
 
 ## Built With
 
