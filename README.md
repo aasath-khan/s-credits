@@ -7,10 +7,11 @@ S-credits is a simple, social app that provides users with a list of socail acti
 
 MEAN Stack:
 
-* MongoDB
-* Express.js
-* AngularJS
-* Node.js
+* Mysql
+* html
+* css
+* javascript
+* python 
 
 FileStack for image uploads
 
